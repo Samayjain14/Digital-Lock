@@ -39,5 +39,5 @@ Open ModelSim Transcript and enter:
 
 ```tcl
 quit -sim
-cd "D:/Verilog excercises/Digital Lock FSM"
+cd "D:/Verilog excercises/Digital Lock"
 do "sim/run.do"
