@@ -31,13 +31,3 @@ after 3 incorrect attempts. The design was simulated and verified using ModelSim
 | lockout          | 1     | Out | High after 3 wrong attempts |
 
 ---
-
-## How to Run (ModelSim)
-
-### Using the automated script:
-Open ModelSim Transcript and enter:
-
-```tcl
-quit -sim
-cd "D:/Verilog excercises/Digital Lock"
-do "sim/run.do"
